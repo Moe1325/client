@@ -1,14 +1,3 @@
-// ==UserScript==
-// @name         Mine-craft.io Moe Client
-// @namespace    http://tampermonkey.net/
-// @author       ytmoe_1325
-// @version      3.0
-// @description  GUI with FPS display, FPS unlocker, auto sprint, autoclicker, auto bunny hop, ESP, and Claim Reward.
-// @match        https://mine-craft.io/*
-// @grant        none
-// @run-at       document-end
-// ==/UserScript==
-
 (function () {
     'use strict';
 
