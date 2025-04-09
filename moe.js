@@ -1,5 +1,3 @@
-(function () {
-    'use strict';
 
     function createButton(text) {
         const btn = document.createElement('button');
